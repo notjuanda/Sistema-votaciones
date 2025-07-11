@@ -13,3 +13,6 @@
 [submodule "jurado-admin-front"]
 	path = jurado-admin-front
 	url = https://github.com/luluvx/sistema-votacion-frontend
+[submodule "sistema-votacion"]
+	path = sistema-votacion
+	url = https://github.com/luluvx/sistema-votacion
