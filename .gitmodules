@@ -1,0 +1,12 @@
+[submodule "sistema-autenticacion"]
+	path = sistema-autenticacion
+	url = https://github.com/notjuanda/sistema-autenticacion
+[submodule "sistema-administracion-electoral"]
+	path = sistema-administracion-electoral
+	url = https://github.com/notjuanda/sistema-administracion-electoral
+[submodule "sistema-padron-electoral"]
+	path = sistema-padron-electoral
+	url = https://github.com/notjuanda/sistema-padron-electoral
+[submodule "super-admin-front"]
+	path = super-admin-front
+	url = https://github.com/notjuanda/super-admin-front
