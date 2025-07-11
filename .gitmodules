@@ -10,3 +10,6 @@
 [submodule "super-admin-front"]
 	path = super-admin-front
 	url = https://github.com/notjuanda/super-admin-front
+[submodule "jurado-admin-front"]
+	path = jurado-admin-front
+	url = https://github.com/luluvx/sistema-votacion-frontend
