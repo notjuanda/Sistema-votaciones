@@ -16,3 +16,6 @@
 [submodule "sistema-votacion"]
 	path = sistema-votacion
 	url = https://github.com/luluvx/sistema-votacion
+[submodule "padron-front"]
+	path = padron-front
+	url = https://github.com/notjuanda/padron-front
